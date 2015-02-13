@@ -10,7 +10,4 @@ this is code that is more or less working in production, but it probably needs a
 As such, this readme and other documentation are also a work in progress, and I will document its use as the code stabilises. 
 
 ##License##
-This code will be MIT licensed when I get around to it. 
-
-Until then, consider it free in any sense of the word, just don't take credit for it, thats's cheating. 
-
+MIT
